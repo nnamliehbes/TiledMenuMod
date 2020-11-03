@@ -1,0 +1,214 @@
+{
+  "fullscreen": false,
+  "icon": "start-here-kde",
+  "fixedPanelIcon": true,
+  "searchResultsMerged": true,
+  "searchDefaultFilters": [
+    "Dictionary",
+    "services",
+    "calculator",
+    "shell",
+    "org.kde.windowedwidgets",
+    "org.kde.datetime",
+    "baloosearch",
+    "locations",
+    "unitconverter"
+  ],
+  "showRecentApps": false,
+  "recentOrdering": 1,
+  "numRecentApps": 5,
+  "sidebarShortcuts": [
+    "xdg:DOCUMENTS",
+    "xdg:PICTURES",
+    "org.kde.dolphin.desktop",
+    "systemsettings.desktop"
+  ],
+  "defaultAppListView": "Alphabetical",
+  "tileModel": [
+    {
+      "x": 4,
+      "y": 8,
+      "w": 2,
+      "h": 2,
+      "url": "org.kde.discover.desktop",
+      "showLabel": false
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "w": 1,
+      "h": 1,
+      "url": "org.kde.dolphin.desktop",
+      "showLabel": false
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "w": 2,
+      "h": 2,
+      "url": "firefox.desktop",
+      "showLabel": false
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "w": 2,
+      "h": 2,
+      "url": "appimagekit_4312a5cd861f609a2c83b907c9cae529-GitHub_Desktop.desktop",
+      "showLabel": false
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "w": 2,
+      "h": 2,
+      "url": "org.kde.gwenview.desktop",
+      "showLabel": false,
+      "backgroundImage": "",
+      "showIcon": true
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "w": 2,
+      "h": 2,
+      "url": "org.kde.konsole.desktop",
+      "showLabel": false
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "w": 1,
+      "h": 1,
+      "url": "libreoffice-startcenter.desktop",
+      "showLabel": false
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "w": 2,
+      "h": 2,
+      "url": "rstudio.desktop",
+      "showLabel": false
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "w": 2,
+      "h": 2,
+      "url": "appimagekit_dc563bbe5016aaa770be2a7e8b6300e9-Telegram_Desktop.desktop",
+      "showLabel": false
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "w": 2,
+      "h": 2,
+      "url": "spotify.desktop",
+      "showLabel": false
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "w": 2,
+      "h": 2,
+      "url": "code.desktop",
+      "showIcon": true,
+      "showLabel": false
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "w": 1,
+      "h": 1,
+      "url": "libreoffice-calc.desktop",
+      "showLabel": false
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "w": 1,
+      "h": 1,
+      "url": "libreoffice-writer.desktop",
+      "showLabel": false
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "w": 1,
+      "h": 1,
+      "url": "masterpdfeditor4.desktop",
+      "showLabel": false
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "w": 2,
+      "h": 2,
+      "url": "org.kde.kmail2.desktop",
+      "showLabel": false,
+      "icon": "gnome-gmail",
+      "showIcon": true
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "w": 1,
+      "h": 1,
+      "url": "org.kde.spectacle.desktop",
+      "showLabel": false
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "w": 1,
+      "h": 1,
+      "url": "org.gnome.Maps.desktop",
+      "showLabel": false
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "w": 6,
+      "h": 1,
+      "url": "",
+      "tileType": "group",
+      "label": "<b>Medien"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "w": 6,
+      "h": 1,
+      "url": "",
+      "tileType": "group",
+      "label": "<b>Produktivität"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "w": 1,
+      "h": 1,
+      "url": "org.kde.kcolorchooser.desktop",
+      "showLabel": false
+    }
+  ],
+  "tileMargin": 3,
+  "tilesLocked": false,
+  "defaultTileColor": "#11DDDDDD",
+  "defaultTileGradient": false,
+  "sidebarBackgroundColor": "",
+  "hideSearchField": false,
+  "searchFieldFollowsTheme": true,
+  "sidebarFollowsTheme": false,
+  "tileLabelAlignment": "left",
+  "appDescription": "hidden",
+  "menuItemHeight": 31,
+  "searchFieldHeight": 48,
+  "appListWidth": 320,
+  "favGridCols": 6,
+  "popupHeight": 620,
+  "sidebarButtonSize": 30,
+  "sidebarIconSize": 18,
+  "sidebarPopupButtonSize": 36
+} 
