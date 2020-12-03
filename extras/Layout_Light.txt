@@ -1,3 +1,4 @@
+ 
 {
   "fullscreen": false,
   "icon": "start-here-kde",
@@ -31,7 +32,7 @@
       "w": 2,
       "h": 2,
       "url": "org.kde.discover.desktop",
-      "showLabel": false
+      "showLabel": true
     },
     {
       "x": 2,
@@ -47,15 +48,7 @@
       "w": 2,
       "h": 2,
       "url": "firefox.desktop",
-      "showLabel": false
-    },
-    {
-      "x": 4,
-      "y": 3,
-      "w": 2,
-      "h": 2,
-      "url": "appimagekit_4312a5cd861f609a2c83b907c9cae529-GitHub_Desktop.desktop",
-      "showLabel": false
+      "showLabel": true
     },
     {
       "x": 2,
@@ -64,7 +57,7 @@
       "h": 2,
       "url": "org.kde.gwenview.desktop",
       "showLabel": false,
-      "backgroundImage": "",
+      "backgroundImage": "file:///home/sebastian/Bilder/Wallpaper/Other/544e7f3e61518e153f8ffe70a240c1aeba42bbae.jpg",
       "showIcon": true
     },
     {
@@ -73,7 +66,7 @@
       "w": 2,
       "h": 2,
       "url": "org.kde.konsole.desktop",
-      "showLabel": false
+      "showLabel": true
     },
     {
       "x": 2,
@@ -89,7 +82,7 @@
       "w": 2,
       "h": 2,
       "url": "rstudio.desktop",
-      "showLabel": false
+      "showLabel": true
     },
     {
       "x": 4,
@@ -97,7 +90,7 @@
       "w": 2,
       "h": 2,
       "url": "appimagekit_dc563bbe5016aaa770be2a7e8b6300e9-Telegram_Desktop.desktop",
-      "showLabel": false
+      "showLabel": true
     },
     {
       "x": 0,
@@ -105,7 +98,7 @@
       "w": 2,
       "h": 2,
       "url": "spotify.desktop",
-      "showLabel": false
+      "showLabel": true
     },
     {
       "x": 4,
@@ -114,7 +107,7 @@
       "h": 2,
       "url": "code.desktop",
       "showIcon": true,
-      "showLabel": false
+      "showLabel": true
     },
     {
       "x": 3,
@@ -138,7 +131,8 @@
       "w": 1,
       "h": 1,
       "url": "masterpdfeditor4.desktop",
-      "showLabel": false
+      "showLabel": false,
+      "icon": "okular"
     },
     {
       "x": 2,
@@ -146,7 +140,7 @@
       "w": 2,
       "h": 2,
       "url": "org.kde.kmail2.desktop",
-      "showLabel": false,
+      "showLabel": true,
       "icon": "gnome-gmail",
       "showIcon": true
     },
@@ -173,7 +167,7 @@
       "h": 1,
       "url": "",
       "tileType": "group",
-      "label": "<b>Medien"
+      "label": "<br>Medien"
     },
     {
       "x": 0,
@@ -182,7 +176,8 @@
       "h": 1,
       "url": "",
       "tileType": "group",
-      "label": "<b>Produktivität"
+      "label": "<br>Produktivität",
+      "showLabel": true
     },
     {
       "x": 3,
@@ -191,14 +186,23 @@
       "h": 1,
       "url": "org.kde.kcolorchooser.desktop",
       "showLabel": false
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "w": 2,
+      "h": 2,
+      "url": "anki.desktop",
+      "showLabel": true,
+      "icon": "ccsm"
     }
   ],
   "tileMargin": 3,
   "tilesLocked": false,
-  "defaultTileColor": "#11DDDDDD",
+  "defaultTileColor": "#66FFFFFF",
   "defaultTileGradient": false,
   "sidebarBackgroundColor": "",
-  "hideSearchField": false,
+  "hideSearchField": true,
   "searchFieldFollowsTheme": true,
   "sidebarFollowsTheme": false,
   "tileLabelAlignment": "left",
@@ -211,4 +215,4 @@
   "sidebarButtonSize": 30,
   "sidebarIconSize": 18,
   "sidebarPopupButtonSize": 36
-} 
+}

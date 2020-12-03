@@ -109,7 +109,6 @@ Rectangle {
 		verticalAlignment: Text.AlignBottom
 		width: parent.width
 		renderType: Text.QtRendering // Fix pixelation when scaling. Plasma.Label uses NativeRendering.
-		style: Text.Outline
 		styleColor: appObj.backgroundGradient ? tileItemView.gradientBottomColor : appObj.backgroundColor
 	}
 }
