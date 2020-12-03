@@ -4,5 +4,8 @@ This is a mod of the popular startmenu extension by zren for KDE Plasma.
 Changes:
 - smaller icons
 - added shadows
+- improved font readability
 
-![Screenshot](https://raw.githubusercontent.com/nnamliehbes/TiledMenuMod/main/pictures/preview.png)
+![Screenshot](https://github.com/nnamliehbes/TiledMenuMod/blob/main/pictures/Improvement.png)
+![Screenshot](https://github.com/nnamliehbes/TiledMenuMod/blob/main/pictures/Dark.png)
+![Screenshot](https://github.com/nnamliehbes/TiledMenuMod/blob/main/pictures/Light.png)
